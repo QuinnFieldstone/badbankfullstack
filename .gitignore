@@ -7,7 +7,7 @@
 .DS_Store
 /.pnp
 .pnp.js
-
+/backend/.env
 # testing
 /coverage
 
